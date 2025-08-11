@@ -20,7 +20,6 @@
 
 **Ejercicios:**
 - Filtrar usuarios mayores de 30 de países como Canadá, Alemania y Francia.  
-  - [Ver código](https://github.com/Marianete/ejercicios?tab=readme-ov-file#-actividad-3-del-d%C3%ADa)  
 
 ---
 
@@ -42,10 +41,6 @@
 - Leyenda: `plt.legend()`  
 - Cuadrícula: `plt.grid(True)`  
 - Guardar gráfico: `plt.savefig('nombre.png')`  
-
-**Ejemplo:**
-- [Gráfico de temperaturas](https://github.com/Marianete/ejercicios/blob/main/matploib1.py)  
-- [Ver imagen](https://github.com/Marianete/ejercicios/blob/main/Figure_1.png)  
 
 ---
 
@@ -131,9 +126,6 @@
 **Personalización:**
 - Títulos y ejes con `matplotlib`:  
   `plt.title()`, `plt.xlabel()`, `plt.ylabel()`  
-
-**Ejemplo práctico:**
-- [Ver ejemplo con Seaborn](https://github.com/Marianete/ejercicios/blob/main/seaborn1.py)
 
 ---
 
